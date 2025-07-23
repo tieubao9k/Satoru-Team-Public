@@ -3,7 +3,7 @@
 # Satoru Upload - Complete Ubuntu Auto Setup & Deployment Script
 # Version: 2.0.0 (Ubuntu Production Ready)
 # Author: Centus on Satoru Team
-# Usage: curl -s https://raw.githubusercontent.com/your-repo/setup.sh | bash
+# Usage: curl -s https://raw.githubusercontent.com/tieubao9k/Satoru-Team-Public/refs/heads/main/setup.sh | bash
 
 set -e
 
